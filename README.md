@@ -9,6 +9,12 @@
 - 💬 Ask me about anything!...
 - 📫 How to reach me: Linkedin/Instagram...
 
-
+<!--
 ![Alt Text](https://media.giphy.com/media/Y0b2MpUTfnrUa3jIM7/source.gif)
+
+![Alt Text](https://media.giphy.com/media/dvsjHZc6P3oozpp9I4/giphy.gif)-->
 <!--[![Watch the video](https://www.youtube.com/watch?v=j98id5L8LgA)-->
+
+   😎😴😄😄         |  🎶👀🤩🥳🥳🤯🥶🤙
+:-------------------------:|:-------------------------:
+![Alt Text](https://media.giphy.com/media/Y0b2MpUTfnrUa3jIM7/source.gif)  |  ![Alt Text](https://media.giphy.com/media/dvsjHZc6P3oozpp9I4/giphy.gif)
