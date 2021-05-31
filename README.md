@@ -3,13 +3,21 @@
 <!--
 **arknandan25/arknandan25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-- 🔭 I’m an aspiring software engineer@Ireland!
-- 🔭 I’m currently working on an End to End Encryption Android Application...
+- 🔭 I’m an aspiring software and systems engineer@Ireland!
+- 🔭 I’m currently working on clearing my first AWS certification!
 - 🌱 I’m currently learning Shell, AWS, Python & Augmented Reality...
 - 💬 Ask me about anything!...
 - 📫 How to reach me: Linkedin/Instagram...
 - Linkedin: https://www.linkedin.com/in/arknandan-singh-chauhan/
 - Portfolio: https://arknandan25.github.io/portfolio/
+- Recently Completed Projects::
+   * SecureChat: An End-to-End Encryption Application that allows user to chat one-to-one and even group chats with a modern encryption mechanism.
+   * Published a research paper: "Blockchain-Enabled End-to-End Encryption for Instant Messaging Applications": https://arxiv.org/abs/2104.08494
+   * Built an Augmented Reality based game using Unity, C# and Vuforia.
+   * Learned about Network Security: DNSSEC, TLS, PKI, Cryptography.
+   * Learned and worked with XML, XSLT, XSD, DTD, XPath, XQuery, Semantic Web.
+
+
 
 <!--
 ![Alt Text](https://media.giphy.com/media/Y0b2MpUTfnrUa3jIM7/source.gif)
