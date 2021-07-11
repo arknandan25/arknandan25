@@ -1,11 +1,11 @@
-### Hi there 👋
+### Hi there, I am Ark😎
 
 <!--
 **arknandan25/arknandan25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-- 🔭 I’m an aspiring software and systems engineer@Ireland!
+- 🔭 I’m currently working as a System Development Engineer @ Amazon Web Services (AWS)
 - 🔭 I’m currently working on clearing my first AWS certification!
-- 🌱 I’m currently learning Shell, AWS, Python & Augmented Reality...
+- 🌱 I’m currently learning Shell, AWS, Python...
 - 💬 Ask me about anything!...
 - 📫 How to reach me: Linkedin/Instagram...
 - Linkedin: https://www.linkedin.com/in/arknandan-singh-chauhan/
